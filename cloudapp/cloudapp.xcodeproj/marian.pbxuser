@@ -1,0 +1,153 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* cloudappAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 481}}";
+			sepNavSelRange = "{102, 9}";
+			sepNavVisRange = "{0, 138}";
+		};
+	};
+	1D3623250D0F684500981E51 /* cloudappAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 2821}}";
+			sepNavSelRange = "{102, 9}";
+			sepNavVisRange = "{0, 138}";
+			sepNavWindowFrame = "{{15, 4}, {1265, 774}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* cloudapp */ = {
+		activeExec = 0;
+		executables = (
+			568D7432154415C3000C03E0 /* cloudapp */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 568D7432154415C3000C03E0 /* cloudapp */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* cloudapp */;
+		codeSenseManager = 568D7446154415C9000C03E0 /* Code sense */;
+		executables = (
+			568D7432154415C3000C03E0 /* cloudapp */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 356783555;
+			PBXWorkspaceStateSaveDate = 356783555;
+		};
+		perUserProjectItems = {
+			568D744C15441661000C03E0 /* PBXTextBookmark */ = 568D744C15441661000C03E0 /* PBXTextBookmark */;
+			568D744D15441661000C03E0 /* PBXTextBookmark */ = 568D744D15441661000C03E0 /* PBXTextBookmark */;
+			568D744E15441661000C03E0 /* PBXTextBookmark */ = 568D744E15441661000C03E0 /* PBXTextBookmark */;
+			568D744F15441661000C03E0 /* PBXTextBookmark */ = 568D744F15441661000C03E0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 568D7445154415C9000C03E0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 273}}";
+			sepNavSelRange = "{87, 17}";
+			sepNavVisRange = "{0, 131}";
+		};
+	};
+	568D7432154415C3000C03E0 /* cloudapp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = cloudapp;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	568D7445154415C9000C03E0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	568D7446154415C9000C03E0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	568D744C15441661000C03E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 6";
+		rLen = 9;
+		rLoc = 87;
+		rType = 0;
+		vrLen = 131;
+		vrLoc = 0;
+	};
+	568D744D15441661000C03E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* cloudappAppDelegate.m */;
+		name = "cloudappAppDelegate.m: 6";
+		rLen = 9;
+		rLoc = 102;
+		rType = 0;
+		vrLen = 138;
+		vrLoc = 0;
+	};
+	568D744E15441661000C03E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* cloudappAppDelegate.h */;
+		rLen = 9;
+		rLoc = 102;
+		rType = 0;
+	};
+	568D744F15441661000C03E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* cloudappAppDelegate.h */;
+		name = "cloudappAppDelegate.h: 6";
+		rLen = 9;
+		rLoc = 102;
+		rType = 0;
+		vrLen = 138;
+		vrLoc = 0;
+	};
+}

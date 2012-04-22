@@ -1,0 +1,244 @@
+Tcloudapp
+v7
+r0
+t356783711.308552
+cCheck dependencies
+cProcessInfoPlistFile /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/Info.plist cloudapp-Info.plist
+cCompileXIB /Users/marian/Documents/git-projects/cloud-test/cloudapp/MainWindow.xib
+cProcessPCH /var/folders/T0/T0ZjdaqsFwuR10BR7arKUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cloudapp_Prefix-ffesycwfstkwaraomuctzboyohmu/cloudapp_Prefix.pch.gch cloudapp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/cloudapp.momd /Users/marian/Documents/git-projects/cloud-test/cloudapp/cloudapp.xcdatamodeld
+cCompileC build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/Objects-normal/i386/main.o /Users/marian/Documents/git-projects/cloud-test/cloudapp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/Objects-normal/i386/cloudappAppDelegate.o /Users/marian/Documents/git-projects/cloud-test/cloudapp/Classes/cloudappAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/cloudapp normal i386
+cGenerateDSYMFile /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app.dSYM /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/cloudapp
+cTouch /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/marian/Documents/git-projects/cloud-test/cloudapp/Classes/cloudappAppDelegate.h
+c000000004F93DEDD000000000000035D
+t1335090909
+s861
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/marian/Documents/git-projects/cloud-test/cloudapp/Classes/cloudappAppDelegate.m
+c000000004F93DEDD0000000000001DD9
+t1335090909
+s7641
+i"cloudappAppDelegate.h"
+
+N/Users/marian/Documents/git-projects/cloud-test/cloudapp/MainWindow.xib
+c000000004F93DE4300000000000021CB
+t1335090755
+s8651
+
+N/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app
+t1335090911
+s238
+
+N/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app.dSYM
+t1335090911
+s102
+
+N/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/Info.plist
+t1335090909
+s595
+
+N/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/MainWindow.nib
+t1335090909
+s985
+
+N/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/PkgInfo
+t1335090909
+s8
+
+N/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/cloudapp
+t1335090911
+s17524
+
+N/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/cloudapp.momd
+t1335090910
+s136
+
+N/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/Objects-normal/i386/cloudapp.LinkFileList
+c000000004F93DEDD000000000000012B
+t1335090909
+s299
+
+N/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/Objects-normal/i386/cloudappAppDelegate.o
+t1335090910
+s61112
+
+N/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/Objects-normal/i386/main.o
+t1335090910
+s6340
+
+N/Users/marian/Documents/git-projects/cloud-test/cloudapp/cloudapp.xcdatamodeld
+c000000004F93DE430000000000000088
+t1335090755
+s136
+
+N/Users/marian/Documents/git-projects/cloud-test/cloudapp/cloudapp_Prefix.pch
+c000000004F93DE430000000000000164
+t1335090755
+s356
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/marian/Documents/git-projects/cloud-test/cloudapp/main.m
+c000000004F93DEDD0000000000000160
+t1335090909
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/T0/T0ZjdaqsFwuR10BR7arKUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cloudapp_Prefix-ffesycwfstkwaraomuctzboyohmu/cloudapp_Prefix.pch.gch
+t1335090910
+s16326640
+
+Ncloudapp-Info.plist
+c000000004F93DE43000000000000038D
+t1335090755
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies356783709#356783709#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/Objects-normal/i386/cloudappAppDelegate.o /Users/marian/Documents/git-projects/cloud-test/cloudapp/Classes/cloudappAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356783710.888130
+e356783710.993957
+r1
+xCompileC
+xbuild/cloudapp.build/Debug-iphonesimulator/cloudapp.build/Objects-normal/i386/cloudappAppDelegate.o
+x/Users/marian/Documents/git-projects/cloud-test/cloudapp/Classes/cloudappAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/marian/Documents/git-projects/cloud-test/cloudapp/Classes/cloudappAppDelegate.m356783710#356783710#0(0"0(0#0#86"/Users/marian/Documents/git-projects/cloud-test/cloudapp/Classes/cloudappAppDelegate.m8603272864#2170"    cd /Users/marian/Documents/git-projects/cloud-test/cloudapp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/cloudapp-generated-files.hmap -I/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/cloudapp-own-target-headers.hmap -I/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/cloudapp-all-target-headers.hmap -iquote /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/cloudapp-project-headers.hmap -F/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator -I/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/include -I/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/DerivedSources/i386 -I/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/DerivedSources -include /var/folders/T0/T0ZjdaqsFwuR10BR7arKUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cloudapp_Prefix-ffesycwfstkwaraomuctzboyohmu/cloudapp_Prefix.pch -c /Users/marian/Documents/git-projects/cloud-test/cloudapp/Classes/cloudappAppDelegate.m -o /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/Objects-normal/i386/cloudappAppDelegate.o0#
+
+CCompileC build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/Objects-normal/i386/main.o /Users/marian/Documents/git-projects/cloud-test/cloudapp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s356783710.788805
+e356783710.931341
+r1
+xCompileC
+xbuild/cloudapp.build/Debug-iphonesimulator/cloudapp.build/Objects-normal/i386/main.o
+x/Users/marian/Documents/git-projects/cloud-test/cloudapp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/marian/Documents/git-projects/cloud-test/cloudapp/main.m356783710#356783710#0(0"0(0#0#63"/Users/marian/Documents/git-projects/cloud-test/cloudapp/main.m8599765792#2132"    cd /Users/marian/Documents/git-projects/cloud-test/cloudapp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/cloudapp-generated-files.hmap -I/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/cloudapp-own-target-headers.hmap -I/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/cloudapp-all-target-headers.hmap -iquote /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/cloudapp-project-headers.hmap -F/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator -I/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/include -I/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/DerivedSources/i386 -I/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/DerivedSources -include /var/folders/T0/T0ZjdaqsFwuR10BR7arKUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cloudapp_Prefix-ffesycwfstkwaraomuctzboyohmu/cloudapp_Prefix.pch -c /Users/marian/Documents/git-projects/cloud-test/cloudapp/main.m -o /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/marian/Documents/git-projects/cloud-test/cloudapp/MainWindow.xib
+s356783709.209063
+e356783709.659846
+r1
+xCompileXIB
+x/Users/marian/Documents/git-projects/cloud-test/cloudapp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib356783709#356783709#0(0"0(0#0#71"/Users/marian/Documents/git-projects/cloud-test/cloudapp/MainWindow.xib8601641760#625"    cd /Users/marian/Documents/git-projects/cloud-test/cloudapp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/MainWindow.nib /Users/marian/Documents/git-projects/cloud-test/cloudapp/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CDataModelVersionCompile /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/cloudapp.momd /Users/marian/Documents/git-projects/cloud-test/cloudapp/cloudapp.xcdatamodeld
+s356783710.787865
+e356783710.888005
+r1
+xDataModelVersionCompile
+x/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/cloudapp.momd
+x/Users/marian/Documents/git-projects/cloud-test/cloudapp/cloudapp.xcdatamodeld
+lSLF07#2@100"DataModelVersionCompile build/Debug-iphonesimulator/cloudapp.app/cloudapp.momd cloudapp.xcdatamodeld356783710#356783710#0(0"0(0#0#78"/Users/marian/Documents/git-projects/cloud-test/cloudapp/cloudapp.xcdatamodeld8600229120#443"    cd /Users/marian/Documents/git-projects/cloud-test/cloudapp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/marian/Documents/git-projects/cloud-test/cloudapp/cloudapp.xcdatamodeld /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/cloudapp.momd0#
+
+CGenerateDSYMFile /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app.dSYM /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/cloudapp
+s356783711.228970
+e356783711.283228
+r1
+xGenerateDSYMFile
+x/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app.dSYM
+x/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/cloudapp
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/cloudapp.app.dSYM build/Debug-iphonesimulator/cloudapp.app/cloudapp356783711#356783711#0(0"0(0#0#106"/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/cloudapp8603281632#440"    cd /Users/marian/Documents/git-projects/cloud-test/cloudapp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/cloudapp -o /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app.dSYM0#
+
+CLd /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/cloudapp normal i386
+s356783710.994122
+e356783711.228868
+r1
+xLd
+x/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/cloudapp
+xnormal
+xi386
+lSLF07#2@111"Link /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/cloudapp356783710#356783711#0(0"0(0#0#0"8606442624#1015"    cd /Users/marian/Documents/git-projects/cloud-test/cloudapp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator -F/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator -filelist /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/Objects-normal/i386/cloudapp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/cloudapp0#
+
+CProcessInfoPlistFile /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/Info.plist cloudapp-Info.plist
+s356783709.173747
+e356783709.208956
+r1
+xProcessInfoPlistFile
+x/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/Info.plist
+xcloudapp-Info.plist
+lSLF07#2@27"Process cloudapp-Info.plist356783709#356783709#0(0"0(0#0#76"/Users/marian/Documents/git-projects/cloud-test/cloudapp/cloudapp-Info.plist30399722689593456#536"    cd /Users/marian/Documents/git-projects/cloud-test/cloudapp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility cloudapp-Info.plist -genpkginfo /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app/Info.plist0#
+
+CProcessPCH /var/folders/T0/T0ZjdaqsFwuR10BR7arKUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cloudapp_Prefix-ffesycwfstkwaraomuctzboyohmu/cloudapp_Prefix.pch.gch cloudapp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s356783709.660018
+e356783710.787684
+r1
+xProcessPCH
+x/var/folders/T0/T0ZjdaqsFwuR10BR7arKUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cloudapp_Prefix-ffesycwfstkwaraomuctzboyohmu/cloudapp_Prefix.pch.gch
+xcloudapp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile cloudapp_Prefix.pch356783709#356783710#0(0"0(0#0#76"/Users/marian/Documents/git-projects/cloud-test/cloudapp/cloudapp_Prefix.pch8606243776#2005"    cd /Users/marian/Documents/git-projects/cloud-test/cloudapp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/cloudapp-generated-files.hmap -I/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/cloudapp-own-target-headers.hmap -I/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/cloudapp-all-target-headers.hmap -iquote /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/cloudapp-project-headers.hmap -F/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator -I/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/include -I/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/DerivedSources/i386 -I/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/cloudapp.build/Debug-iphonesimulator/cloudapp.build/DerivedSources -c /Users/marian/Documents/git-projects/cloud-test/cloudapp/cloudapp_Prefix.pch -o /var/folders/T0/T0ZjdaqsFwuR10BR7arKUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/cloudapp_Prefix-ffesycwfstkwaraomuctzboyohmu/cloudapp_Prefix.pch.gch0#
+
+CTouch /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app
+s356783711.283319
+e356783711.308490
+r1
+xTouch
+x/Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app
+lSLF07#2@103"Touch /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app356783711#356783711#0(0"0(0#0#0"8605851872#315"    cd /Users/marian/Documents/git-projects/cloud-test/cloudapp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/marian/Documents/git-projects/cloud-test/cloudapp/build/Debug-iphonesimulator/cloudapp.app0#
+
