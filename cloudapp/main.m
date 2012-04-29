@@ -2,8 +2,6 @@
 //  main.m
 //  cloudapp
 //
-//  Created by Fair Value on 4/22/12.
-//  Copyright 2012 ProfiDocs. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
